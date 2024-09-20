@@ -37,3 +37,11 @@ CREATE TABLE Employees123 (
     Department VARCHAR(50)
 );
 
+
+CREATE TABLE Employees124 (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Department VARCHAR(50)
+);
+
